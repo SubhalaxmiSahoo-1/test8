@@ -14,6 +14,7 @@ public class GitBranchExampleApplication {
 		int d = 4000;
 		boolean isSub = true;
 		char e = 'A';
+		float f = 100.00f;
 		char anjali = 'S';
 		double g = 22.50;
 		SpringApplication.run(GitBranchExampleApplication.class, args);
