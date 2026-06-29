@@ -13,6 +13,7 @@ public class GitBranchExampleApplication {
 		int c = 3000;
 		int d = 4000;
 		boolean isSub = true;
+		char c = 'A';
 		SpringApplication.run(GitBranchExampleApplication.class, args);
 	}
 
