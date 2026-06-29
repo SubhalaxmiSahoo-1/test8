@@ -9,6 +9,9 @@ public class GitBranchExampleApplication {
 	public static void main(String[] args) {
 		
 		int a = 1000;
+		int b = 2000;
+		int c = 3000;
+		int d = 4000;
 		SpringApplication.run(GitBranchExampleApplication.class, args);
 	}
 
