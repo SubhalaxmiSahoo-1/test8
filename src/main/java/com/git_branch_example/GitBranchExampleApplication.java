@@ -19,7 +19,7 @@ public class GitBranchExampleApplication {
 		double g = 22.50;
 		int ab = 100;
 		int ba = 90;
-		System.out.println("Hello from main");
+		System.out.println("Hello from Feature and main");
 		SpringApplication.run(GitBranchExampleApplication.class, args);
 	}
 
