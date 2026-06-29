@@ -17,6 +17,8 @@ public class GitBranchExampleApplication {
 		float f = 100.00f;
 		char anjali = 'S';
 		double g = 22.50;
+		int ab = 100;
+		int ba = 90;
 		SpringApplication.run(GitBranchExampleApplication.class, args);
 	}
 
